@@ -1,0 +1,3 @@
+﻿  comuni.cpp
+C:\Users\DELL\Desktop\Study\Year3 Sem2\communication\comuni\comuni.cpp(13,12): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  comuni.vcxproj -> C:\Users\DELL\Desktop\Study\Year3 Sem2\communication\comuni\Debug\comuni.exe
